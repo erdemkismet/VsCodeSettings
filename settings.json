@@ -45,6 +45,5 @@
     "editor.folding": false,
     "workbench.editor.tabActionCloseVisibility": false,
     "terminal.integrated.fontSize": 16,
-    "terminal.integrated.lineHeight": 1.5,
-
+    "terminal.integrated.lineHeight": 1.5
 }
