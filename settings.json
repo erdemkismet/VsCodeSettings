@@ -1,0 +1,50 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "git.autofetch": true,
+  "files.exclude": {
+      "**/__pycache__": true
+    },
+    "editor.tabSize": 2,
+    "editor.rulers": [
+      80
+    ],
+    "editor.accessibilitySupport": "off",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Cascadia Code",
+    "markdown.preview.lineHeight": 28,
+    "editor.lineHeight": 38,
+    "editor.fontLigatures": true,
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "phase",
+    "workbench.startupEditor": "newUntitledFile",
+    "files.defaultLanguage": "markdown",
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 2,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "breadcrumbs.enabled": false,
+    // Minimalism:
+    "editor.guides.indentation": false,
+    "workbench.activitybar.visible": false,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled":  false,
+    "explorer.openEditors.visible": 0,
+
+    // tabs stuff
+    "workbench.editor.showIcons": false,
+    "workbench.editor.tabCloseButton": "off",
+    "workbench.editor.showTabs": "single",
+
+    // gutter stuff
+
+    "editor.lineNumbers": "off",
+    "editor.glyphMargin": false,
+    "editor.folding": false,
+    "workbench.editor.tabActionCloseVisibility": false,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.lineHeight": 1.5,
+
+}
